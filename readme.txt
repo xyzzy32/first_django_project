@@ -1,1 +1,2 @@
-Hello world! First Django project
+Hello
+world! First Django project
